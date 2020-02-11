@@ -1,0 +1,23 @@
+{
+  "name": "meu_1blog",
+  "version": "1.0.0",
+  "description": "Meu blog nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u001b[A\u001b[Bhttps://github.com/WesleyPenachia/Blog_Nodejs.git"
+  },
+  "keywords": [
+    "node.js",
+    "react"
+  ],
+  "author": "Wesley Penachia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
